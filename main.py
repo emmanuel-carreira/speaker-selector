@@ -14,6 +14,6 @@ if __name__ == '__main__':
     speakers = main([
         ['this', 'is', 'an'],
         ['example', 'of', 'use', 'case.'],
-        ['set', 'your', 'own', 'WorkingFront', 'of', 'people', 'accordingly.']
+        ['set', 'your', 'own', 'group', 'of', 'people', 'accordingly.']
     ])
     print(', '.join(speakers))
